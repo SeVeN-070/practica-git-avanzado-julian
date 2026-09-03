@@ -1,17 +1,16 @@
 # 🧮 Calculadora en Python — Práctica de Git Avanzado
 
-Proyecto simple de calculadora con operaciones básicas, usado 
-para practicar comandos avanzados de Git.
+Proyecto simple de calculadora con operaciones básicas, usado para practicar comandos avanzados de Git.
 
 ## ⚙️ Funcionalidades
 - Sumar
 - Restar
 - Multiplicar
+- Dividir
 
 ## 📝 Cómo ejecutar
-```
+```bash
 python calculadora.py
-```
 
 ---
 
