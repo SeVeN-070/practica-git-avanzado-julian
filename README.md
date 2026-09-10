@@ -101,3 +101,15 @@ muestra este comando.
 
 ## ✅ Entrega
 Link de tu repositorio (fork) + pantallazo de "git log --oneline"
+
+## 📌 Versionado Semántico (Semantic Versioning)
+El versionado semántico usa la estructura **vMAJOR.MINOR.PATCH** (ejemplo: `v1.2.3`):
+* **MAJOR (1):** Cambios grandes o incompatibles que rompen la versión anterior (ej. rehacer la arquitectura del proyecto).
+* **MINOR (2):** Nuevas funcionalidades añadidas que son compatibles hacia atrás (ej. agregar la función de potencia o porcentaje).
+* **PATCH (3):** Correcciones pequeñas de errores o bugs (ej. corregir la validación de división por cero).
+
+---
+
+## 🛠️ Conceptos de Git
+* **`git stash`:** Funciona como un cajón temporal. Guarda los cambios que estás trabajando sin necesidad de hacer un commit, dejando el directorio de trabajo totalmente limpio para cambiar de tarea rápidamente.
+* **`git tag`:** Funciona como una etiqueta o marcador fijo en un commit específico dentro del historial para indicar una versión o hito importante del software (ej. `v1.0`).
