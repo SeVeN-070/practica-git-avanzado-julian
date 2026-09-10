@@ -27,3 +27,5 @@ def porcentaje(numero, porcentaje):
 
 def promedio(lista_numeros):
     return sum(lista_numeros) / len(lista_numeros)
+
+#PRUEBA STASH
